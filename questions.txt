@@ -1,0 +1,13 @@
+Prep uppgifter:
+1. Som en matris med värden där värdet på platsen m,n representerar ett
+färgvärde på colorscale
+
+2. Colormap ändrar eller sätter colormap som sedan används när man representerar 
+bilder med imagesc
+
+Frågor:
+1. 4.535956083616378e+03 och 0
+2. 3 + (0) så 4
+3. 6 + (0) så 7
+stämmer
+
